@@ -1,3 +1,4 @@
+<!-- js/scripts.js of bbauska/SilusGW-rolling -->
 let isFirefox = typeof InstallTrigger !== 'undefined';
 const words = "SilusGamingWorld";
 
@@ -35,6 +36,6 @@ const characters = words.split("").forEach((char, i) => {
 });
 
 // @property CSS doesn't work in Firefox, so it must be animated using JavaScript.
-if(isFirefox){
+if(isFirefox) {
   animation();
 }
