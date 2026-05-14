@@ -1,4 +1,4 @@
-<!-- ./js/scripts.js for SilusGW-rolling.bauska.org -->
+<!-- ./js/scripts.js for Silus-Rolling.bauska.org -->
 let isFirefox = typeof InstallTrigger !== 'undefined';
 const words = "SilusGamingWorld";
 
